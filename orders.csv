@@ -1,0 +1,501 @@
+order_id,customer_id,order_date,product_name,quantity,price,payment_method,shipping_city,shipping_address,shipping_date,customer_first_name,customer_last_name,shipping_state,review,coupon
+A1,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A2,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A3,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,33.32721477
+A4,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,76.99734614
+A5,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,12.81264147
+A6,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A7,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A8,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,
+A9,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A10,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A11,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,307.1797129
+A12,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,9.649714834
+A13,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,31.58476006
+A14,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,134.0181962
+A15,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A16,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,
+A17,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,159.1515336
+A18,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,
+A19,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,
+A20,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,12.14286323
+A21,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,397.166164
+A22,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A23,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A24,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A25,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A26,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,21.5814626
+A27,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A28,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,11.09270163
+A29,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A30,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,9.023129079
+A31,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A32,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,11.79016475
+A33,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A34,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A35,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,8.643394637
+A36,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,29.94530238
+A37,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,260.0770692
+A38,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,
+A39,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,70.0292088
+A40,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A41,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A42,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,11.52086059
+A43,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A44,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,94.00348121
+A45,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A46,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,
+A47,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A48,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A49,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,93.10198648
+A50,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A51,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A52,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,3.230802459
+A53,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,27.00939993
+A54,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,58.78868107
+A55,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A56,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A57,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A58,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,11.21091886
+A59,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,54.99593763
+A60,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,5.481569414
+A61,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A62,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A63,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,13.11260763
+A64,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A65,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,7.729407445
+A66,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A67,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A68,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,4.017700614
+A69,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,
+A70,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,
+A71,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A72,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,8.130593862
+A73,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A74,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,53.0341425
+A75,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,
+A76,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,18.55922541
+A77,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,214.9070836
+A78,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A79,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A80,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,17.68006169
+A81,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A82,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,3.271768779
+A83,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A84,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,86.98009321
+A85,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,18.05951376
+A86,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A87,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A88,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A89,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,
+A90,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,8.311313662
+A91,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A92,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,7.82928942
+A93,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,33.3877783
+A94,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A95,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,6.188077864
+A96,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,16.15766845
+A97,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A98,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,
+A99,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,
+A100,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A101,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A102,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,7.392295238
+A103,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,21.03750578
+A104,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,87.08226966
+A105,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A106,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A107,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,188.4900254
+A108,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A109,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,106.7710723
+A110,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,
+A111,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,274.2284501
+A112,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,7.527878489
+A113,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,17.81226131
+A114,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A115,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A116,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,31.04254872
+A117,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A118,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A119,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A120,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,22.29382132
+A121,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,160.6049671
+A122,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,11.13015872
+A123,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A124,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A125,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A126,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,10.49466583
+A127,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A128,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,4.751275068
+A129,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,54.2493187
+A130,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A131,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A132,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,5.652753965
+A133,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,29.03753916
+A134,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,99.54590404
+A135,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,
+A136,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A137,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A138,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,3.14455947
+A139,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,49.0995047
+A140,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,7.781804033
+A141,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A142,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A143,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A144,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,134.4050457
+A145,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,
+A146,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,8.682499856
+A147,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A148,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A149,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,
+A150,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,
+A151,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,260.0765319
+A152,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A153,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,13.30948615
+A154,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A155,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,7.588966412
+A156,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A157,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A158,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,5.734560493
+A159,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,52.50849395
+A160,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A161,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A162,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A163,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,12.78120092
+A164,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,51.36954482
+A165,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,
+A166,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A167,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A168,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,
+A169,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A170,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,10.14239264
+A171,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A172,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,5.344751129
+A173,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,25.66272705
+A174,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A175,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,8.356525218
+A176,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,36.78899924
+A177,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,417.4931172
+A178,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A179,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,
+A180,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,6.540310167
+A181,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A182,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,7.292341786
+A183,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A184,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A185,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A186,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A187,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A188,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A189,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,45.53497409
+A190,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,21.27645815
+A191,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,222.0446335
+A192,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,2.521339156
+A193,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,21.25717008
+A194,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,63.00138384
+A195,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,14.37264125
+A196,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,24.8151986
+A197,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,552.0784498
+A198,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,3.738975516
+A199,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A200,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,
+A201,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A202,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A203,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A204,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A205,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A206,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,37.29918617
+A207,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A208,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A209,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A210,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,21.05982574
+A211,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A212,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A213,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A214,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A215,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A216,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,8.989977771
+A217,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,385.1849041
+A218,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,2.823102559
+A219,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,76.63274362
+A220,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A221,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,201.4838282
+A222,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A223,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A224,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A225,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,16.94553599
+A226,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,23.65004608
+A227,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,471.1899096
+A228,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,
+A229,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A230,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A231,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,266.8103036
+A232,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,11.23583475
+A233,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A234,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A235,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A236,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,13.79156278
+A237,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A238,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,
+A239,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,85.93092818
+A240,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,7.372808804
+A241,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,263.2881133
+A242,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A243,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,19.55144217
+A244,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,69.42353636
+A245,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,14.11803436
+A246,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,
+A247,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,274.1962255
+A248,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A249,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,95.17735421
+A250,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,
+A251,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,331.6947145
+A252,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A253,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,9.301993409
+A254,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,53.86780764
+A255,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,18.2106994
+A256,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,8.512797441
+A257,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A258,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A259,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A260,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A261,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,243.3861027
+A262,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A263,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A264,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A265,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,24.88931209
+A266,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,25.75575947
+A267,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,588.6463559
+A268,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A269,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,117.5810954
+A270,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,12.40790055
+A271,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A272,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A273,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A274,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A275,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,14.68897816
+A276,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,11.56490731
+A277,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,283.8593603
+A278,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,8.335012174
+A279,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A280,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,
+A281,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A282,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A283,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,20.91258553
+A284,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,81.42316354
+A285,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,9.483165954
+A286,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A287,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A288,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A289,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,
+A290,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A291,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,585.4517019
+A292,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A293,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,31.59005165
+A294,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,135.9925616
+A295,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,
+A296,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,
+A297,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A298,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,5.241621158
+A299,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,
+A300,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,15.80190837
+A301,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,383.2413975
+A302,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,9.018229713
+A303,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A304,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A305,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,16.75529089
+A306,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,37.24243748
+A307,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A308,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,9.723240212
+A309,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A310,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A311,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,294.1845164
+A312,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,11.57709795
+A313,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A314,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,85.0113282
+A315,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,
+A316,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A317,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A318,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A319,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,83.10145255
+A320,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,22.66023806
+A321,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A322,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,2.579782382
+A323,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A324,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,98.11307076
+A325,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,
+A326,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A327,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A328,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,11.20965814
+A329,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,70.13158905
+A330,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A331,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A332,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A333,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A334,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,148.1694611
+A335,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,22.90923235
+A336,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,22.42045838
+A337,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,397.7670505
+A338,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,11.65958768
+A339,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,38.95066137
+A340,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,14.03751751
+A341,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A342,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,9.51785296
+A343,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,33.46485598
+A344,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A345,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A346,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,11.63902927
+A347,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,385.7432982
+A348,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A349,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A350,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,13.9409232
+A351,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A352,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A353,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,16.23315215
+A354,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A355,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A356,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,
+A357,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A358,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A359,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,80.96222646
+A360,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,
+A361,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A362,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,3.031297861
+A363,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A364,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A365,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A366,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,
+A367,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A368,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,11.60112814
+A369,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A370,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,14.93611337
+A371,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A372,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,10.7973147
+A373,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A374,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,120.5438627
+A375,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A376,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A377,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A378,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,11.24570758
+A379,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A380,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,
+A381,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A382,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A383,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,17.97936239
+A384,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,79.96095537
+A385,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,18.04070508
+A386,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,
+A387,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A388,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,
+A389,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A390,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,11.98543056
+A391,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,206.5835466
+A392,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A393,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A394,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,91.03368718
+A395,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,20.86142986
+A396,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,24.31094103
+A397,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A398,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,4.702573201
+A399,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A400,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,18.8210894
+A401,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A402,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,3.599080444
+A403,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A404,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A405,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,9.322739308
+A406,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,
+A407,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,444.6397514
+A408,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,9.341623547
+A409,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A410,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A411,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A412,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A413,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,22.23534766
+A414,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,124.7853344
+A415,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,
+A416,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,
+A417,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A418,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A419,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,62.15302095
+A420,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,18.04916339
+A421,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A422,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,10.06696819
+A423,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,27.99102307
+A424,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A425,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A426,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,30.82251282
+A427,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A428,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,
+A429,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,98.90565251
+A430,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,5.300334779
+A431,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,244.5673944
+A432,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,3.224877639
+A433,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A434,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A435,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A436,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,13.78103052
+A437,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A438,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,
+A439,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,
+A440,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,10.32962199
+A441,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,417.2891432
+A442,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,6.119235796
+A443,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A444,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A445,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,19.21875803
+A446,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,31.99226125
+A447,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,530.6608258
+A448,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,10.75268123
+A449,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,
+A450,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,
+A451,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,246.7385023
+A452,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A453,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A454,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A455,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,20.99737608
+A456,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,20.0340964
+A457,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,327.0741387
+A458,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A459,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A460,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,7.106304312
+A461,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A462,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,11.2678186
+A463,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A464,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,120.2798167
+A465,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A466,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A467,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,,
+A468,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A469,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,34.30397043
+A470,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,19.7855059
+A471,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A472,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A473,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,15.69955734
+A474,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,45.07674299
+A475,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,17.61402889
+A476,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,
+A477,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A478,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,,6.894196826
+A479,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,
+A480,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,
+A481,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,1,
+A482,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,,
+A483,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,1,
+A484,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,,
+A485,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,,
+A486,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,,17.54878725
+A487,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,263.2461451
+A488,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,
+A489,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,1,
+A490,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,,18.14696518
+A491,1,2023-08-01,Laptop,1,1200,Credit Card,New York,123 Main St,2023-08-03,John,Doe,NY,,
+A492,2,2023-08-01,Mouse,2,25,PayPal,Los Angeles,456 Oak Ave,2023-08-01,Jane,Smith,CA,1,
+A493,3,2023-08-02,Keyboard,1,75,Venmo,Chicago,789 Elm St,2023-08-05,David,Lee,IL,,
+A494,1,2023-08-03,Monitor,1,300,Credit Card,New York,123 Main St,2023-08-04,John,Doe,NY,1,
+A495,4,2023-08-03,Webcam,1,50,Debit Card,Houston,1010 Pine St,2023-08-08,Sarah,Jones,TX,1,
+A496,2,2023-08-04,Keyboard,1,75,PayPal,Los Angeles,456 Oak Ave,2023-08-05,Jane,Smith,CA,1,
+A497,5,2023-08-05,Laptop,1,1200,Credit Card,Phoenix,1111 Willow St,2023-08-07,Michael,Brown,AZ,1,
+A498,6,2023-08-05,Mouse,3,25,Venmo,Philadelphia,2222 Maple St,2023-08-06,Emily,Davis,PA,1,5.48494742
+A499,7,2023-08-06,Monitor,2,300,Debit Card,San Antonio,3333 Cedar St,2023-08-13,Daniel,Wilson,TX,,149.0538607
+A500,1,2023-08-07,Webcam,2,50,Credit Card,New York,123 Main St,2023-08-08,John,Doe,NY,1,

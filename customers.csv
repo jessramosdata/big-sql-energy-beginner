@@ -1,0 +1,8 @@
+id,first_name,last_name,address,state,city,email,phone_number,gender
+1,John,Doe,123 Main St,NY,New York,user1@example.com,928-111-813,Male
+2,Jane,Smith,456 Oak Ave,CA,Los Angeles,user2@example.com,386-874-247,Female
+3,David,Lee,789 Elm St,IL,Chicago,user3@example.com,242-567-850,Male
+4,Sarah,Jones,1010 Pine St,TX,Houston,user4@example.com,406-195-357,Male
+5,Michael,Brown,1111 Willow St,AZ,Phoenix,user5@example.com,682-233-760,Male
+6,Emily,Davis,2222 Maple St,PA,Philadelphia,user6@example.com,823-446-726,Male
+7,Daniel,Wilson,3333 Cedar St,TX,San Antonio,user7@example.com,929-374-901,Male
